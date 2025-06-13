@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Jay Prakash
 
 🎯 **Full-Stack Software Engineer** | 🚀 MERN & Next.js Expert | 🧠 AI Enthusiast  
-📍 Noida, India 
+📍 India 
 
 ---
 
